@@ -1,0 +1,35 @@
+.signuppage{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.formSection{
+  border: 1px solid black;
+  padding: 30px 40px;
+  border-radius: 10px;
+  background-color: rgba(238, 239, 239, 0.4);
+}
+.loginBtn{
+  padding: 0;
+  border: 0;
+  /* font-size: 10px; */
+  color: blue;
+}
+.loginpage{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.loginNavigate{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.loginForm{
+  border: 1px solid black;
+  padding: 30px;
+}
